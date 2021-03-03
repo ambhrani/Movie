@@ -1,8 +1,8 @@
 # movies-app
 
-# Introduction
 
-This repository is the result of the tutorial to develop your first MERN application and you can find it [here](https://medium.com/@samarony.barros/how-to-create-your-first-mern-mongodb-express-js-react-js-and-node-js-stack-7e8b20463e66)
+
+
 
 ## What you should install?
 
@@ -16,15 +16,9 @@ Firstly, you should install
 -   [ReactJS](https://reactjs.org/) 16.5.0+
 -   [Node](https://nodejs.org/en/) 11.4.0+ (It's recommended to use 10.15.1 LTS)
 
-## Download
 
-You can download the folder on my [GitHub](https://github.com/samaronybarros/) or you can do this directly on [this link](https://github.com/samaronybarros/movies-app).
 
-If you have git installed on your PC, you just need do as follow:
 
-```
-$ git clone https://github.com/samaronybarros/movies-app.git
-```
 
 ## Configuring App
 
