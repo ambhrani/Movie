@@ -1,7 +1,8 @@
 import React, { Component } from 'react'
 import styled from 'styled-components'
+//import RegistrationForm from './RegistrationForm/RegistrationForm'
 
-import Logo from './Logo'
+//import Logo from './Logo'
 import Links from './Links'
 
 const Container = styled.div.attrs({
@@ -21,7 +22,6 @@ class NavBar extends Component {
         return (
             <Container>
                 <Nav>
-                    
                     <Links />
                 </Nav>
             </Container>
